@@ -1,0 +1,554 @@
+﻿{
+    "United States of America": {
+        "Gold": 39,
+        "Silver": 41,
+        "Bronze": 33,
+        "Total medals": 113
+    },
+    "People's Republic of China": {
+        "Gold": 38,
+        "Silver": 32,
+        "Bronze": 18,
+        "Total medals": 88
+    },
+    "Japan": {
+        "Gold": 27,
+        "Silver": 14,
+        "Bronze": 17,
+        "Total medals": 58
+    },
+    "Great Britain": {
+        "Gold": 22,
+        "Silver": 21,
+        "Bronze": 22,
+        "Total medals": 65
+    },
+    "ROC": {
+        "Gold": 20,
+        "Silver": 28,
+        "Bronze": 23,
+        "Total medals": 71
+    },
+    "Australia": {
+        "Gold": 17,
+        "Silver": 7,
+        "Bronze": 22,
+        "Total medals": 46
+    },
+    "Netherlands": {
+        "Gold": 10,
+        "Silver": 12,
+        "Bronze": 14,
+        "Total medals": 36
+    },
+    "France": {
+        "Gold": 10,
+        "Silver": 12,
+        "Bronze": 11,
+        "Total medals": 33
+    },
+    "Germany": {
+        "Gold": 10,
+        "Silver": 11,
+        "Bronze": 16,
+        "Total medals": 37
+    },
+    "Italy": {
+        "Gold": 10,
+        "Silver": 10,
+        "Bronze": 20,
+        "Total medals": 40
+    },
+    "Canada": {
+        "Gold": 7,
+        "Silver": 6,
+        "Bronze": 11,
+        "Total medals": 24
+    },
+    "Brazil": {
+        "Gold": 7,
+        "Silver": 6,
+        "Bronze": 8,
+        "Total medals": 21
+    },
+    "New Zealand": {
+        "Gold": 7,
+        "Silver": 6,
+        "Bronze": 7,
+        "Total medals": 20
+    },
+    "Cuba": {
+        "Gold": 7,
+        "Silver": 3,
+        "Bronze": 5,
+        "Total medals": 15
+    },
+    "Hungary": {
+        "Gold": 6,
+        "Silver": 7,
+        "Bronze": 7,
+        "Total medals": 20
+    },
+    "Republic of Korea": {
+        "Gold": 6,
+        "Silver": 4,
+        "Bronze": 10,
+        "Total medals": 20
+    },
+    "Poland": {
+        "Gold": 4,
+        "Silver": 5,
+        "Bronze": 5,
+        "Total medals": 14
+    },
+    "Czech Republic": {
+        "Gold": 4,
+        "Silver": 4,
+        "Bronze": 3,
+        "Total medals": 11
+    },
+    "Kenya": {
+        "Gold": 4,
+        "Silver": 4,
+        "Bronze": 2,
+        "Total medals": 10
+    },
+    "Norway": {
+        "Gold": 4,
+        "Silver": 2,
+        "Bronze": 2,
+        "Total medals": 8
+    },
+    "Jamaica": {
+        "Gold": 4,
+        "Silver": 1,
+        "Bronze": 4,
+        "Total medals": 9
+    },
+    "Spain": {
+        "Gold": 3,
+        "Silver": 8,
+        "Bronze": 6,
+        "Total medals": 17
+    },
+    "Sweden": {
+        "Gold": 3,
+        "Silver": 6,
+        "Bronze": 0,
+        "Total medals": 9
+    },
+    "Switzerland": {
+        "Gold": 3,
+        "Silver": 4,
+        "Bronze": 6,
+        "Total medals": 13
+    },
+    "Denmark": {
+        "Gold": 3,
+        "Silver": 4,
+        "Bronze": 4,
+        "Total medals": 11
+    },
+    "Croatia": {
+        "Gold": 3,
+        "Silver": 3,
+        "Bronze": 2,
+        "Total medals": 8
+    },
+    "Islamic Republic of Iran": {
+        "Gold": 3,
+        "Silver": 2,
+        "Bronze": 2,
+        "Total medals": 7
+    },
+    "Serbia": {
+        "Gold": 3,
+        "Silver": 1,
+        "Bronze": 5,
+        "Total medals": 9
+    },
+    "Belgium": {
+        "Gold": 3,
+        "Silver": 1,
+        "Bronze": 3,
+        "Total medals": 7
+    },
+    "Bulgaria": {
+        "Gold": 3,
+        "Silver": 1,
+        "Bronze": 2,
+        "Total medals": 6
+    },
+    "Slovenia": {
+        "Gold": 3,
+        "Silver": 1,
+        "Bronze": 1,
+        "Total medals": 5
+    },
+    "Uzbekistan": {
+        "Gold": 3,
+        "Silver": 0,
+        "Bronze": 2,
+        "Total medals": 5
+    },
+    "Georgia": {
+        "Gold": 2,
+        "Silver": 5,
+        "Bronze": 1,
+        "Total medals": 8
+    },
+    "Chinese Taipei": {
+        "Gold": 2,
+        "Silver": 4,
+        "Bronze": 6,
+        "Total medals": 12
+    },
+    "Turkey": {
+        "Gold": 2,
+        "Silver": 2,
+        "Bronze": 9,
+        "Total medals": 13
+    },
+    "Greece": {
+        "Gold": 2,
+        "Silver": 1,
+        "Bronze": 1,
+        "Total medals": 4
+    },
+    "Uganda": {
+        "Gold": 2,
+        "Silver": 1,
+        "Bronze": 1,
+        "Total medals": 4
+    },
+    "Ecuador": {
+        "Gold": 2,
+        "Silver": 1,
+        "Bronze": 0,
+        "Total medals": 3
+    },
+    "Ireland": {
+        "Gold": 2,
+        "Silver": 0,
+        "Bronze": 2,
+        "Total medals": 4
+    },
+    "Israel": {
+        "Gold": 2,
+        "Silver": 0,
+        "Bronze": 2,
+        "Total medals": 4
+    },
+    "Qatar": {
+        "Gold": 2,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 3
+    },
+    "Bahamas": {
+        "Gold": 2,
+        "Silver": 0,
+        "Bronze": 0,
+        "Total medals": 2
+    },
+    "Kosovo": {
+        "Gold": 2,
+        "Silver": 0,
+        "Bronze": 0,
+        "Total medals": 2
+    },
+    "Ukraine": {
+        "Gold": 1,
+        "Silver": 6,
+        "Bronze": 12,
+        "Total medals": 19
+    },
+    "Belarus": {
+        "Gold": 1,
+        "Silver": 3,
+        "Bronze": 3,
+        "Total medals": 7
+    },
+    "Romania": {
+        "Gold": 1,
+        "Silver": 3,
+        "Bronze": 0,
+        "Total medals": 4
+    },
+    "Venezuela": {
+        "Gold": 1,
+        "Silver": 3,
+        "Bronze": 0,
+        "Total medals": 4
+    },
+    "India": {
+        "Gold": 1,
+        "Silver": 2,
+        "Bronze": 4,
+        "Total medals": 7
+    },
+    "Philippines": {
+        "Gold": 1,
+        "Silver": 2,
+        "Bronze": 1,
+        "Total medals": 4
+    },
+    "Slovakia": {
+        "Gold": 1,
+        "Silver": 2,
+        "Bronze": 1,
+        "Total medals": 4
+    },
+    "South Africa": {
+        "Gold": 1,
+        "Silver": 2,
+        "Bronze": 0,
+        "Total medals": 3
+    },
+    "Austria": {
+        "Gold": 1,
+        "Silver": 1,
+        "Bronze": 5,
+        "Total medals": 7
+    },
+    "Egypt": {
+        "Gold": 1,
+        "Silver": 1,
+        "Bronze": 4,
+        "Total medals": 6
+    },
+    "Indonesia": {
+        "Gold": 1,
+        "Silver": 1,
+        "Bronze": 3,
+        "Total medals": 5
+    },
+    "Ethiopia": {
+        "Gold": 1,
+        "Silver": 1,
+        "Bronze": 2,
+        "Total medals": 4
+    },
+    "Portugal": {
+        "Gold": 1,
+        "Silver": 1,
+        "Bronze": 2,
+        "Total medals": 4
+    },
+    "Tunisia": {
+        "Gold": 1,
+        "Silver": 1,
+        "Bronze": 0,
+        "Total medals": 2
+    },
+    "Estonia": {
+        "Gold": 1,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 2
+    },
+    "Fiji": {
+        "Gold": 1,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 2
+    },
+    "Latvia": {
+        "Gold": 1,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 2
+    },
+    "Thailand": {
+        "Gold": 1,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 2
+    },
+    "Bermuda": {
+        "Gold": 1,
+        "Silver": 0,
+        "Bronze": 0,
+        "Total medals": 1
+    },
+    "Morocco": {
+        "Gold": 1,
+        "Silver": 0,
+        "Bronze": 0,
+        "Total medals": 1
+    },
+    "Puerto Rico": {
+        "Gold": 1,
+        "Silver": 0,
+        "Bronze": 0,
+        "Total medals": 1
+    },
+    "Colombia": {
+        "Gold": 0,
+        "Silver": 4,
+        "Bronze": 1,
+        "Total medals": 5
+    },
+    "Azerbaijan": {
+        "Gold": 0,
+        "Silver": 3,
+        "Bronze": 4,
+        "Total medals": 7
+    },
+    "Dominican Republic": {
+        "Gold": 0,
+        "Silver": 3,
+        "Bronze": 2,
+        "Total medals": 5
+    },
+    "Armenia": {
+        "Gold": 0,
+        "Silver": 2,
+        "Bronze": 2,
+        "Total medals": 4
+    },
+    "Kyrgyzstan": {
+        "Gold": 0,
+        "Silver": 2,
+        "Bronze": 1,
+        "Total medals": 3
+    },
+    "Mongolia": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 3,
+        "Total medals": 4
+    },
+    "Argentina": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 2,
+        "Total medals": 3
+    },
+    "San Marino": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 2,
+        "Total medals": 3
+    },
+    "Jordan": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 1,
+        "Total medals": 2
+    },
+    "Malaysia": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 1,
+        "Total medals": 2
+    },
+    "Nigeria": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 1,
+        "Total medals": 2
+    },
+    "Bahrain": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 0,
+        "Total medals": 1
+    },
+    "Saudi Arabia": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 0,
+        "Total medals": 1
+    },
+    "Lithuania": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 0,
+        "Total medals": 1
+    },
+    "North Macedonia": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 0,
+        "Total medals": 1
+    },
+    "Namibia": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 0,
+        "Total medals": 1
+    },
+    "Turkmenistan": {
+        "Gold": 0,
+        "Silver": 1,
+        "Bronze": 0,
+        "Total medals": 1
+    },
+    "Kazakhstan": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 8,
+        "Total medals": 8
+    },
+    "Mexico": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 4,
+        "Total medals": 4
+    },
+    "Finland": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 2,
+        "Total medals": 2
+    },
+    "Botswana": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 1
+    },
+    "Burkina Faso": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 1
+    },
+    "C\u00f4te d'Ivoire": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 1
+    },
+    "Ghana": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 1
+    },
+    "Grenada": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 1
+    },
+    "Kuwait": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 1
+    },
+    "Republic of Moldova": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 1
+    },
+    "Syrian Arab Republic": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 1,
+        "Total medals": 1
+    }
+}
